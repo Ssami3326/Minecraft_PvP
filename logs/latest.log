@@ -1,49 +1,42 @@
-[15:30:49] [ServerMain/INFO]: Building unoptimized datafixer
-[15:30:51] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[15:30:56] [ServerMain/INFO]: Loaded 7 recipes
-[15:30:57] [ServerMain/INFO]: Loaded 1179 advancements
-[15:30:58] [ServerMain/ERROR]: No key layers in MapLike[{}]
-[15:30:59] [Server thread/INFO]: Starting minecraft server version 1.19.2
-[15:30:59] [Server thread/INFO]: Loading properties
-[15:30:59] [Server thread/INFO]: Default game type: CREATIVE
-[15:30:59] [Server thread/INFO]: Generating keypair
-[15:30:59] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:30:59] [Server thread/INFO]: Using default channel type
-[15:30:59] [Server thread/INFO]: Preparing level "world"
-[15:31:00] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[15:31:05] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[15:31:05] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[15:31:05] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[15:31:05] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[15:31:05] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[15:31:05] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[15:31:05] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[15:31:05] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[15:31:05] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[15:31:05] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[15:31:05] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[15:31:05] [Worker-Main-2/INFO]: Preparing spawn area: 1%
-[15:31:06] [Worker-Main-10/INFO]: Preparing spawn area: 17%
-[15:31:06] [Worker-Main-12/INFO]: Preparing spawn area: 44%
-[15:31:07] [Worker-Main-4/INFO]: Preparing spawn area: 83%
-[15:31:07] [Server thread/INFO]: Time elapsed: 7492 ms
-[15:31:07] [Server thread/INFO]: Done (7.950s)! For help, type "help"
-[15:32:05] [User Authenticator #1/INFO]: UUID of player NATUMI8609 is 7c3a7f65-b89a-417a-b8c3-3aafc3bf0e99
-[15:32:06] [Server thread/INFO]: NATUMI8609[/[0:0:0:0:0:0:0:1]:51425] logged in with entity id 42 at (41.86403185081966, -60.0, 31.3197022105734)
-[15:32:06] [Server thread/INFO]: NATUMI8609 joined the game
-[16:45:36] [Server thread/INFO]: [NATUMI8609: Displaying particle minecraft:ambient_entity_effect]
-[16:46:03] [Server thread/INFO]: [NATUMI8609: Displaying particle minecraft:heart]
-[16:46:18] [Server thread/INFO]: [NATUMI8609: Gave 1 [Command Block] to NATUMI8609]
-[16:57:27] [Server thread/INFO]: NATUMI8609 lost connection: Disconnected
-[16:57:27] [Server thread/INFO]: NATUMI8609 left the game
-[16:57:43] [Server thread/INFO]: Stopping the server
-[16:57:43] [Server thread/INFO]: Stopping server
-[16:57:43] [Server thread/INFO]: Saving players
-[16:57:43] [Server thread/INFO]: Saving worlds
-[16:57:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[16:57:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[16:57:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[16:57:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[16:57:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[16:57:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[16:57:44] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[05:38:05] [ServerMain/INFO]: Building unoptimized datafixer
+[05:38:10] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[05:38:22] [ServerMain/INFO]: Loaded 7 recipes
+[05:38:23] [ServerMain/INFO]: Loaded 1179 advancements
+[05:38:27] [ServerMain/ERROR]: No key layers in MapLike[{}]
+[05:38:27] [Server thread/INFO]: Starting minecraft server version 1.19.2
+[05:38:27] [Server thread/INFO]: Loading properties
+[05:38:27] [Server thread/INFO]: Default game type: CREATIVE
+[05:38:27] [Server thread/INFO]: Generating keypair
+[05:38:27] [Server thread/INFO]: Starting Minecraft server on *:25565
+[05:38:27] [Server thread/INFO]: Using default channel type
+[05:38:28] [Server thread/INFO]: Preparing level "world"
+[05:38:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[05:38:31] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[05:38:32] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[05:38:32] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[05:38:32] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[05:38:32] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[05:38:32] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[05:38:32] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[05:38:32] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[05:38:32] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[05:38:33] [Worker-Main-12/INFO]: Preparing spawn area: 19%
+[05:38:33] [Worker-Main-8/INFO]: Preparing spawn area: 67%
+[05:38:34] [Server thread/INFO]: Time elapsed: 5364 ms
+[05:38:34] [Server thread/INFO]: Done (5.536s)! For help, type "help"
+[05:41:23] [User Authenticator #1/INFO]: UUID of player NATUMI8609 is 7c3a7f65-b89a-417a-b8c3-3aafc3bf0e99
+[05:41:24] [Server thread/INFO]: NATUMI8609[/[0:0:0:0:0:0:0:1]:54986] logged in with entity id 42 at (7.937621016204068, -60.0, 25.570720998350783)
+[05:41:24] [Server thread/INFO]: NATUMI8609 joined the game
+[05:45:22] [Server thread/INFO]: NATUMI8609 lost connection: Disconnected
+[05:45:22] [Server thread/INFO]: NATUMI8609 left the game
+[05:45:29] [Server thread/INFO]: Stopping the server
+[05:45:29] [Server thread/INFO]: Stopping server
+[05:45:29] [Server thread/INFO]: Saving players
+[05:45:29] [Server thread/INFO]: Saving worlds
+[05:45:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05:45:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05:45:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05:45:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:45:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:45:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:45:29] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
