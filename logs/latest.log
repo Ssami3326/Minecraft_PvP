@@ -1,42 +1,57 @@
-[05:38:05] [ServerMain/INFO]: Building unoptimized datafixer
-[05:38:10] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[05:38:22] [ServerMain/INFO]: Loaded 7 recipes
-[05:38:23] [ServerMain/INFO]: Loaded 1179 advancements
-[05:38:27] [ServerMain/ERROR]: No key layers in MapLike[{}]
-[05:38:27] [Server thread/INFO]: Starting minecraft server version 1.19.2
-[05:38:27] [Server thread/INFO]: Loading properties
-[05:38:27] [Server thread/INFO]: Default game type: CREATIVE
-[05:38:27] [Server thread/INFO]: Generating keypair
-[05:38:27] [Server thread/INFO]: Starting Minecraft server on *:25565
-[05:38:27] [Server thread/INFO]: Using default channel type
-[05:38:28] [Server thread/INFO]: Preparing level "world"
-[05:38:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[05:38:31] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[05:38:32] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[05:38:32] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[05:38:32] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[05:38:32] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[05:38:32] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[05:38:32] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[05:38:32] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[05:38:32] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[05:38:33] [Worker-Main-12/INFO]: Preparing spawn area: 19%
-[05:38:33] [Worker-Main-8/INFO]: Preparing spawn area: 67%
-[05:38:34] [Server thread/INFO]: Time elapsed: 5364 ms
-[05:38:34] [Server thread/INFO]: Done (5.536s)! For help, type "help"
-[05:41:23] [User Authenticator #1/INFO]: UUID of player NATUMI8609 is 7c3a7f65-b89a-417a-b8c3-3aafc3bf0e99
-[05:41:24] [Server thread/INFO]: NATUMI8609[/[0:0:0:0:0:0:0:1]:54986] logged in with entity id 42 at (7.937621016204068, -60.0, 25.570720998350783)
-[05:41:24] [Server thread/INFO]: NATUMI8609 joined the game
-[05:45:22] [Server thread/INFO]: NATUMI8609 lost connection: Disconnected
-[05:45:22] [Server thread/INFO]: NATUMI8609 left the game
-[05:45:29] [Server thread/INFO]: Stopping the server
-[05:45:29] [Server thread/INFO]: Stopping server
-[05:45:29] [Server thread/INFO]: Saving players
-[05:45:29] [Server thread/INFO]: Saving worlds
-[05:45:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[05:45:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[05:45:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[05:45:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[05:45:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[05:45:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[05:45:29] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[14:59:44] [ServerMain/INFO]: Building unoptimized datafixer
+[14:59:48] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[14:59:54] [ServerMain/INFO]: Loaded 7 recipes
+[14:59:54] [ServerMain/INFO]: Loaded 1179 advancements
+[14:59:56] [ServerMain/ERROR]: No key layers in MapLike[{}]
+[14:59:56] [Server thread/INFO]: Starting minecraft server version 1.19.2
+[14:59:56] [Server thread/INFO]: Loading properties
+[14:59:56] [Server thread/INFO]: Default game type: CREATIVE
+[14:59:56] [Server thread/INFO]: Generating keypair
+[14:59:57] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:59:57] [Server thread/INFO]: Using default channel type
+[14:59:57] [Server thread/INFO]: Preparing level "world"
+[14:59:58] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:00:04] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[15:00:04] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[15:00:04] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:00:04] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:00:04] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[15:00:04] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:00:04] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:00:04] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[15:00:04] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:00:04] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[15:00:04] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:00:04] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:00:04] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[15:00:04] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[15:00:05] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[15:00:05] [Worker-Main-3/INFO]: Preparing spawn area: 6%
+[15:00:06] [Worker-Main-11/INFO]: Preparing spawn area: 21%
+[15:00:06] [Worker-Main-8/INFO]: Preparing spawn area: 42%
+[15:00:07] [Worker-Main-9/INFO]: Preparing spawn area: 68%
+[15:00:07] [Worker-Main-15/INFO]: Preparing spawn area: 84%
+[15:00:08] [Server thread/INFO]: Time elapsed: 9925 ms
+[15:00:08] [Server thread/INFO]: Done (10.325s)! For help, type "help"
+[15:00:21] [User Authenticator #1/INFO]: UUID of player NATUMI8609 is 7c3a7f65-b89a-417a-b8c3-3aafc3bf0e99
+[15:00:22] [Server thread/INFO]: NATUMI8609[/[0:0:0:0:0:0:0:1]:51263] logged in with entity id 42 at (0.9353900418650472, -60.0, 32.11548718841625)
+[15:00:22] [Server thread/INFO]: NATUMI8609 joined the game
+[15:00:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2079ms or 41 ticks behind
+[15:15:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[15:19:02] [Server thread/INFO]: NATUMI8609 fell out of the world
+[15:19:02] [Server thread/INFO]: [NATUMI8609: Killed NATUMI8609]
+[15:22:06] [Server thread/INFO]: NATUMI8609 fell out of the world
+[15:22:06] [Server thread/INFO]: [NATUMI8609: Killed NATUMI8609]
+[15:22:24] [Server thread/INFO]: NATUMI8609 lost connection: Disconnected
+[15:22:24] [Server thread/INFO]: NATUMI8609 left the game
+[15:22:40] [Server thread/INFO]: Stopping the server
+[15:22:40] [Server thread/INFO]: Stopping server
+[15:22:40] [Server thread/INFO]: Saving players
+[15:22:40] [Server thread/INFO]: Saving worlds
+[15:22:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15:22:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[15:22:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[15:22:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:22:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:22:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:22:41] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
